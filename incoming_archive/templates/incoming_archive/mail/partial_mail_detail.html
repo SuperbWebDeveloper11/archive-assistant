@@ -1,0 +1,17 @@
+
+<!-- this partial template will be displayed in bootstrap modal to display an instance -->
+
+<div class="modal-header">
+  <h4 class="modal-title">Mail Details</h4>
+  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+  <p><b>Registration Number</b> {{ mail.registration_number }}</p>
+  <p><b>Reference Number</b> {{ mail.reference_number }}</p>
+  <p><b>Source</b> {{ mail.source.name }}</p>
+  <p><b>Title</b> {{ mail.title }}</p>
+</div>
+<div class="modal-footer">
+  <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Close</button>
+</div>
+
