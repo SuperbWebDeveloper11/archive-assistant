@@ -17,7 +17,7 @@ archive-assistant is a django project built for an office who receive incoming m
 - django-crispy-forms  
 - django-filter  
 - bootstrap  
-- JQuery (to perform crud operations without refreching the page)
+- JQuery (to perform crud operations without refreshing the page)
   
 
 #### here are some screensshot for the archive-assistant:
@@ -28,7 +28,7 @@ archive-assistant is a django project built for an office who receive incoming m
 - display all incomiing mails along with a filter form:
 ![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/screenshot%20for%20archive-assistant/Screenshot%20from%202021-06-06%2009-39-18.png)
 
-- filter incoming mails my model attributes:
+- filter incoming mails by model attributes:
 ![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/screenshot%20for%20archive-assistant/Screenshot%20from%202021-06-06%2009-39-30.png)
 
 - employees should be logged in to perform crud operations:
