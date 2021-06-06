@@ -2,7 +2,6 @@
 ### archive-assistant    
 archive-assistant is a django project built for an office who receive incoming mail and archive it  
   
-![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-02%2019-50-51.png)
   
 ### how office employees will interact with the app:  
 - Office employees could login using username and password or create new accounts   
@@ -21,5 +20,33 @@ archive-assistant is a django project built for an office who receive incoming m
 - bootstrap  
   
 
-[you can find some screenshots here](https://github.com/pedrasfloki/archive-assistant/tree/main/images%20for%20the%20project)
+#### here are some screensshot for the archive-assistant:
+
+- The Entity Relationship Diagram for the project:
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/archiving%20assistant.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-39-18.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-39-18.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-39-30.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-39-52.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-40-59.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-41-26.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-41-38.png)
+
+- 
+![screenshot](https://github.com/pedrasfloki/archive-assistant/blob/main/images%20for%20the%20project/Screenshot%20from%202021-06-06%2009-41-54.png)
+
   
